@@ -11,10 +11,10 @@
  * @file lcs_json_comparer.php
  * @author Chauncey(https://github.com/mornsun/)
  *
- * @brief A script to diff two JSON-formatted protocol files.
- *       It is a general JSON protocol comparer based on LCS (Longest Common Subsequence)
- *       Just after some simple modification with the nested protocol definition array, it can adapt to almost JSON protocol.
- *       Generally, it aims to verify data modification, to avoid unexpected data errors caused by artificial or unartificial reasons
+ * @brief A script to diff two JSON-formatted data files working with same protocol.
+ *       It is a general JSON comparer based on LCS (Longest Common Subsequence). 
+ *       Just after some simple modification with the nested protocol definition constant array (see test()), it can adapt to any JSON protocols.
+ *       Generally, it aims to verify data modification, and to avoid unexpected data errors caused by artificial or unartificial reasons.
  *
  *       Utilize the test() function to have an insight.
  *

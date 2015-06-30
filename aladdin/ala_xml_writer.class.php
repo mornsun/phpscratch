@@ -11,10 +11,8 @@
  * @file AlaSitemapWriter.class.php
  * @author Chauncey(https://github.com/mornsun/)
  *
- * @brief A script to help webmasters and data-owners to transform their structural data
- *       to Baidu search aladdin sitemap protocol (Box Computing Data Open Platform).
- *       It will organize data to an index file and multiple data file, such as sitemap_index.xml,
- *       sitemap_1.xml, sitemap_2.xml, ..., sitemap_n.xml
+ * @brief A script to help webmasters and data-owners to transform their structural data to Baidu search aladdin sitemap protocol (Box Computing Data Open Platform).
+ *       It will organize data to an index file and multiple data files, such as sitemap_index.xml, sitemap_1.xml, sitemap_2.xml, ..., sitemap_n.xml.
  *
  *       Utilize the test() function to have an insight.
  *
